@@ -1,11 +1,11 @@
-<h1 align="center">Zero YT7 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">DhaniGans <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<img src="https://i.ibb.co/YDYS80p/zero.jpg" />
+<img src="https://telegra.ph/file/b8b64e226fffcb974515f.jpg" />
 </p>
 
 <p align="center">
 
-- 👼 My name is Zero YT7
+- 👼 My name is DhaniGans
 
 - 🗣️ I am 18 years old 
 
@@ -16,7 +16,7 @@
 
 ------
 
-# ```BASE SC ZERO YT7```
+# ```SC BY DHANIGANS```
 <p align="center">
 <a href="https://github.com/Zero-YT7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zero-YT7?color=red&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zero-YT7/Base-ZeroYT7?color=blue&style=flat-square"></a>
