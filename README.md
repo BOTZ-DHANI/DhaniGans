@@ -5,15 +5,15 @@
 
 <p align="center">
 
-- 👤 My name is DhaniGans
+- 👼 My name is DhaniGans
 
-- 🗣️ I am Not programmer
+- 🔭 I am Not programmer
  
 </p>
 
 ------
 
-# ```SC BY DHANIGANS```
+# ```Sc By DhaniGans```
 <p align="center">
 <a href="https://github.com/BOTZ-DHANI/followers"><img title="Followers" src="https://img.shields.io/github/followers/BOTZ-DHANI?color=red&style=flat-square"></a>
 <a href="https://github.com/BOTZ-DHANI/DhaniGans/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BOTZ-DHANI/DhaniGans?color=blue&style=flat-square"></a>
@@ -29,11 +29,22 @@
 
 -------
 
+## ```ALL SOSIAL MEDIA```
+<p align="center">
+<a href="https://instagram.com/dhani.jb_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/message/IMGMIAUAWC54J1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA"><img src="https://img.shields.io/badge/YouTube Bot Dhani ?-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA" /><br>
+</p>
+
 ## ```SETTING```
 
 - Owner number [Here](https://github.com/BOTZ-DHANI/DhaniGans/blob/master/setting.json#L4)
 - Owner name [Here](https://github.com/BOTZ-DHANI/DhaniGans/blob/master/setting.json#L13)
 - Botname [Here](https://github.com/BOTZ-DHANI/DhaniGans/blob/master/setting.json#L14)
+
+## ```DONASI```
+
+- [`SAWERIA`](https://i.ibb.co/8MWRgJw/af33bb5c9c61.jpg)
 
 ## ```GROUP BOT```
 
