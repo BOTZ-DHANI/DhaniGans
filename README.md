@@ -44,7 +44,7 @@
 
 ## ```DONASI```
 
-- [`SAWERIA`](https://i.ibb.co/8MWRgJw/af33bb5c9c61.jpg)
+- [`Gopay`](https://i.ibb.co/8MWRgJw/af33bb5c9c61.jpg)
 
 ## ```GROUP BOT```
 
